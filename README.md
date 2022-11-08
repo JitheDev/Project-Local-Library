@@ -18,11 +18,11 @@ Built With:
 # Images
 ## Initial Screen
 The initial screen that appears upon first load of this application is the "Overall Stats" page. It shows General Stats, Most Common Genres, Most Popular Books, Most Popular Authors.
-![overallstats](/public/overallstats.jpg)
-![overallstats1](/public/overallstats1.jpg)
+![overallstats](/public/src/overallstats.jpg)
+![overallstats1](/public/src/overallstats1.jpg)
 ## "Stats by Book" Page
 The "Stats by Book" Page shows a list of book titles on the left side. When you click on a title, brief information on the book(book title, author, and genre) and a list of recent borrowers appear.
-![statsbybook](/public/statsbybook.jpg)
+![statsbybook](/public/src/statsbybook.jpg)
 ## "Stats By Account" Page
 The "Stats by Account" page shows a list of borrowers' names. When you click on a name, certain admin information on that user will appear as well as books they currently have in possession, if any. If they do not have books in possession, it will say "No books currently taken out...".
-![statsbyaccount](/public/statsbyaccount.jpg)
+![statsbyaccount](/public/sec/statsbyaccount.jpg)
