@@ -25,4 +25,4 @@ The "Stats by Book" Page shows a list of book titles on the left side. When you 
 ![statsbybook](/public/src/statsbybook.jpg)
 ## "Stats By Account" Page
 The "Stats by Account" page shows a list of borrowers' names. When you click on a name, certain admin information on that user will appear as well as books they currently have in possession, if any. If they do not have books in possession, it will say "No books currently taken out...".
-![statsbyaccount](/public/sec/statsbyaccount.jpg)
+![statsbyaccount](/public/src/statsbyaccount.jpg)
